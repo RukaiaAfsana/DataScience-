@@ -1,0 +1,7 @@
+this is a text file..
+and i am learning how to open ,close,read and write a text file through python.
+1)this is the first line 
+2)this is the second line 
+3)this is the third line 
+4)this is the fourth line 
+thanks
