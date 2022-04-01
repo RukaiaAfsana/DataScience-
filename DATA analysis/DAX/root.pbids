@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "mysql",
+        "address": {
+          "server": "root"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {},
+      "mode": null
+    }
+  ]
+}
