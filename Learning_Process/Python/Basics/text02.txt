@@ -1,1 +1,0 @@
-Ruks a python created text file 
