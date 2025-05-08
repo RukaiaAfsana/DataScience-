@@ -23,13 +23,7 @@ The main goal is to develop an accurate ML-based framework to predict rockburst 
 4. Generate interpretable 3D fragility surfaces.
 5. Evaluate and validate the predictive performance of the developed system.
 
-## 📂 Contents
 
-- `data/`: Contains raw and processed datasets from seismic monitoring systems.
-- `notebooks/`: Exploratory data analysis and modeling notebooks.
-- `models/`: Trained machine learning models and evaluation scripts.
-- `shap_analysis/`: SHAP-based interpretability analyses for model explanations.
-- `fragility_surfaces/`: Scripts and visualizations for 3D fragility curve generation.
 
 ## 📊 Methods
 
